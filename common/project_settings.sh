@@ -11,7 +11,7 @@ PROJECT_REGION="europe-west3"
 APP_ENGINE_REGION="europe-west3"
 
 # Which default zone should zonal service use?
-PROJECT_ZONE="europe-west3-c"
+PROJECT_ZONE="us-central1-b"
 
 # Used as a suffix for select service names.
 ENV_TYPE="dev"
