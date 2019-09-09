@@ -4,7 +4,7 @@
 PROJECT_NAME="gcp-cert-project-dev"
 
 # Which default region should regional services use?
-PROJECT_REGION="europe-west3"
+PROJECT_REGION="us-central1"
 
 # Which App Engine Region?
 # gcloud app regions list
